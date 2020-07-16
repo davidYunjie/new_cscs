@@ -1,6 +1,0 @@
-
-test in .
---------------
-test new case.
---------------
-test 17:22 case.
